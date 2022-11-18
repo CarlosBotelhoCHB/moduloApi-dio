@@ -1552,3 +1552,8 @@ builder.Services.AddControllers();
 ```
 dotnet-ef migrations add CriacaoTabelaContato
 ```
+
+## Aplicando a `migrations`
+```csharp
+dotnet-ef database update
+```

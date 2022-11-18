@@ -3691,11 +3691,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\PROGRAMAÇÃO\\DIO.me\\BOOTCAMP POTTENCIAL DOTNET DEVELOPER\\ModuloAPI\\ModuloAPI.csproj",
+      "projectUniqueName": "D:\\OneDrive\\PROGRAMAÇÃO\\DIO.me\\BOOTCAMP POTTENCIAL DOTNET DEVELOPER\\moduloApi-dio\\ModuloAPI.csproj",
       "projectName": "ModuloAPI",
-      "projectPath": "D:\\OneDrive\\PROGRAMAÇÃO\\DIO.me\\BOOTCAMP POTTENCIAL DOTNET DEVELOPER\\ModuloAPI\\ModuloAPI.csproj",
+      "projectPath": "D:\\OneDrive\\PROGRAMAÇÃO\\DIO.me\\BOOTCAMP POTTENCIAL DOTNET DEVELOPER\\moduloApi-dio\\ModuloAPI.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\PROGRAMAÇÃO\\DIO.me\\BOOTCAMP POTTENCIAL DOTNET DEVELOPER\\ModuloAPI\\obj\\",
+      "outputPath": "D:\\OneDrive\\PROGRAMAÇÃO\\DIO.me\\BOOTCAMP POTTENCIAL DOTNET DEVELOPER\\moduloApi-dio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
